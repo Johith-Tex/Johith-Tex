@@ -22,19 +22,11 @@
         50% { transform: translateY(-4px); }
       }
 
-      @keyframes heart-beat {
-        0%, 100% { transform: scale(1); }
-        25% { transform: scale(1.15); }
-        50% { transform: scale(1); }
-        75% { transform: scale(1.1); }
-      }
-
       .footer-bg { fill: #0d1117; }
       .wave-line { fill: none; stroke: #00f5d4; stroke-width: 1.5; opacity: 0.2; }
       .wave-line-2 { fill: none; stroke: #ffbe0b; stroke-width: 1; opacity: 0.1; }
       .main-text { font-family: 'Courier New', Courier, monospace; font-size: 22px; fill: #00f5d4; font-weight: bold; animation: text-glow 3s ease-in-out infinite; letter-spacing: 3px; }
       .sub-text { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #8b949e; letter-spacing: 1px; }
-      .heart { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #ff006e; animation: heart-beat 2s ease-in-out infinite; }
       .cursor-footer { fill: #39ff14; animation: blink-slow 1.5s step-end infinite; }
       .pixel-wave { fill: #00f5d4; opacity: 0.08; }
       .footer-line { stroke: #00f5d4; stroke-width: 1; opacity: 0.2; }
@@ -158,10 +150,8 @@
   <!-- Sub text -->
   <text class="sub-text" x="450" y="110" text-anchor="middle">Thanks for scrolling through my profile!</text>
 
-  <!-- Heart + message -->
-  <text class="sub-text" x="407" y="132" text-anchor="middle">Made with</text>
-  <text class="heart" x="442" y="132" text-anchor="middle">♥</text>
-  <text class="sub-text" x="487" y="132" text-anchor="middle">and code</text>
+  <!-- Sub text -->
+  <text class="sub-text" x="450" y="132" text-anchor="middle">Made with code and caffeine</text>
 
   <!-- Blinking cursor at bottom -->
   <rect class="cursor-footer" x="445" y="148" width="10" height="14" rx="1"/>

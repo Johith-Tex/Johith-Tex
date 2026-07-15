@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮  JOHITH-TEX  •  GitHub Profile README  •  Retro/Pixel Art Theme  -->
+<!--  JOHITH-TEX  •  GitHub Profile README  •  Retro/Pixel Art Theme       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- Profile Views Counter -->
@@ -20,10 +20,10 @@
 <img src="assets/divider.svg" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║          ⚔️  CHARACTER STATS              ║ -->
+<!-- ║           CHARACTER STATS                  ║ -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
-## ⚔️ Character Stats
+## Character Stats
 
 <div align="center">
 <table>
@@ -34,27 +34,27 @@
 
 ```
 ╔══════════════════════════════════╗
-║       🎮  PLAYER  PROFILE       ║
+║       PLAYER  PROFILE            ║
 ╠══════════════════════════════════╣
 ║                                  ║
 ║  Name ··· Johith-Tex             ║
 ║  Class ·· Full-Stack Developer   ║
-║  Race ··· Code Wizard 🧙        ║
+║  Race ··· Code Wizard            ║
 ║  Guild ·· Open Source            ║
 ║  Level ·· ∞                      ║
 ║                                  ║
 ╚══════════════════════════════════╝
 ```
 
-🔭 Currently questing on **Gate to Oblivion** (UE5)
+Currently questing on **Gate to Oblivion** (UE5)
 
-🤖 Built **Texie** — a powerful Discord companion
+Built **Texie** — a powerful Discord companion
 
-🌾 Crafting **Uzhavar AI** — smart agriculture platform
+Crafting **Uzhavar AI** — smart agriculture platform
 
-🌱 Leveling up in **AI/ML** & **Advanced Game Dev**
+Leveling up in **AI/ML** & **Advanced Game Dev**
 
-⚡ `while(alive) { code(); sleep(maybe); }`
+`while(alive) { code(); sleep(maybe); }`
 
 </td>
 <td width="480" valign="top" align="center">
@@ -78,14 +78,14 @@
 <img src="assets/divider.svg" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║       🛡️  INVENTORY — TECH STACK         ║ -->
+<!-- ║          INVENTORY — TECH STACK            ║ -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
-## 🛡️ Inventory — Tech Stack
+## Inventory — Tech Stack
 
 <div align="center">
 
-### ⚔️ Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -95,7 +95,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🏹 Frameworks & Engines
+### Frameworks & Engines
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -103,7 +103,7 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -117,10 +117,10 @@
 <img src="assets/divider.svg" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║     📜  QUEST LOG — FEATURED PROJECTS     ║ -->
+<!-- ║       QUEST LOG — FEATURED PROJECTS        ║ -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
-## 📜 Quest Log — Featured Projects
+## Quest Log — Featured Projects
 
 <div align="center">
 
@@ -128,11 +128,10 @@
 <tr>
 
 <td width="50%" align="center" valign="top">
-<h3>🌾 Uzhavar AI</h3>
+<h3>Uzhavar AI</h3>
 
-<!-- 🔽 Replace with your project image: assets/projects/uzhavar-ai.png -->
 <a href="https://github.com/Johith-Tex/uzhavar-ai">
-  <img src="https://img.shields.io/badge/🌾_UZHAVAR_AI-View_Project-00f5d4?style=for-the-badge&labelColor=0d1117" alt="Uzhavar AI"/>
+  <img src="https://img.shields.io/badge/UZHAVAR_AI-View_Project-00f5d4?style=for-the-badge&labelColor=0d1117" alt="Uzhavar AI"/>
 </a>
 
 <br/><br/>
@@ -145,7 +144,7 @@
 </td>
 
 <td width="50%" align="center" valign="top">
-<h3>🗡️ Gate to Oblivion</h3>
+<h3>Gate to Oblivion</h3>
 
 <a href="https://github.com/Johith-Tex/gate-to-oblivion">
   <img src="assets/gate-to-oblivion.jpg.png" width="100%" alt="Gate to Oblivion" style="border-radius: 8px;"/>
@@ -164,7 +163,7 @@
 <tr>
 
 <td width="50%" align="center" valign="top">
-<h3>🤖 Texie</h3>
+<h3>Texie</h3>
 
 <a href="https://github.com/Johith-Tex/texie">
   <img src="assets/texie.png" width="150" alt="Texie Bot"/>
@@ -180,7 +179,7 @@
 </td>
 
 <td width="50%" align="center" valign="top">
-<h3>🎭 Mascot Portfolio</h3>
+<h3>Mascot Portfolio</h3>
 
 <a href="https://github.com/Johith-Tex/mascot-portfolio">
   <img src="assets/mascot-portfolio.png" width="150" alt="Mascot Portfolio"/>
@@ -204,10 +203,10 @@
 <img src="assets/divider.svg" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║         📊  BATTLE STATS                  ║ -->
+<!-- ║              BATTLE STATS                  ║ -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
-## 📊 Battle Stats
+## Battle Stats
 
 <div align="center">
 
@@ -234,5 +233,5 @@
 <img src="assets/footer.svg" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮  Built with love, code, and way too much coffee  ☕               -->
+<!--  Built with love, code, and way too much coffee                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
