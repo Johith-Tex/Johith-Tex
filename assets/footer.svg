@@ -27,14 +27,14 @@
       .wave-line-2 { fill: none; stroke: #ffbe0b; stroke-width: 1; opacity: 0.1; }
       .main-text { font-family: 'Courier New', Courier, monospace; font-size: 22px; fill: #00f5d4; font-weight: bold; animation: text-glow 3s ease-in-out infinite; letter-spacing: 3px; }
       .sub-text { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #8b949e; letter-spacing: 1px; }
-      .cursor-footer { fill: #39ff14; animation: blink-slow 1.5s step-end infinite; }
+
       .pixel-wave { fill: #00f5d4; opacity: 0.08; }
       .footer-line { stroke: #00f5d4; stroke-width: 1; opacity: 0.2; }
       .corner-f { fill: #00f5d4; opacity: 0.4; }
       .invader { fill: #ffbe0b; opacity: 0.3; animation: invader-float 3s ease-in-out infinite; }
       .invader-2 { animation-delay: 0.5s; }
       .invader-3 { animation-delay: 1s; }
-      .code-text { font-family: 'Courier New', Courier, monospace; font-size: 10px; fill: #39ff14; opacity: 0.3; }
+
       .dot-footer { fill: #00f5d4; opacity: 0.3; }
 
       @media (prefers-color-scheme: light) {
@@ -153,8 +153,7 @@
   <!-- Sub text -->
   <text class="sub-text" x="450" y="132" text-anchor="middle">Made with code and caffeine</text>
 
-  <!-- Blinking cursor at bottom -->
-  <rect class="cursor-footer" x="445" y="148" width="10" height="14" rx="1"/>
+
 
   <!-- Bottom corner decorations -->
   <rect class="corner-f" x="16" y="160" width="20" height="2" rx="1"/>
@@ -168,7 +167,5 @@
   <circle class="dot-footer" cx="550" cy="165" r="1.5"/>
   <circle class="dot-footer" cx="700" cy="165" r="1.5"/>
 
-  <!-- Faded code snippets -->
-  <text class="code-text" x="70" y="165">while(alive) { code(); }</text>
-  <text class="code-text" x="700" y="165">// never stop building</text>
+
 </svg>

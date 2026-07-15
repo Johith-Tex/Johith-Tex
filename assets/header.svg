@@ -61,7 +61,7 @@
       .glitch-layer-r { font-family: 'Courier New', Courier, monospace; font-size: 58px; font-weight: bold; fill: #ff006e; animation: glitch-r 5s ease-in-out infinite; }
       .glitch-layer-b { font-family: 'Courier New', Courier, monospace; font-size: 58px; font-weight: bold; fill: #4361ee; animation: glitch-b 5s ease-in-out infinite; }
       .subtitle { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #ffbe0b; animation: float-subtle 4s ease-in-out infinite; letter-spacing: 1.5px; }
-      .cursor { fill: #39ff14; animation: blink-cursor 1s step-end infinite; }
+
       .corner { fill: #00f5d4; opacity: 0.5; }
       .corner-glow { fill: #00f5d4; opacity: 0.5; animation: border-glow 3s ease-in-out infinite; }
       .star { fill: #ffffff; }
@@ -193,7 +193,6 @@
 
   <!-- Subtitle with cursor -->
   <text class="subtitle" x="450" y="170" text-anchor="middle">&gt; Full-Stack Dev | Game Creator | Bot Builder</text>
-  <rect class="cursor" x="633" y="158" width="9" height="14" rx="1"/>
 
   <!-- Level indicator -->
   <text class="level-text" x="450" y="205" text-anchor="middle">━━━━━ LVL  ∞ ━━━━━</text>
