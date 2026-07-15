@@ -1,15 +1,9 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  JOHITH-TEX  •  GitHub Profile README  •  Retro/Pixel Art Theme       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- Profile Views Counter -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Johith-Tex&style=pixel&color=00f5d4&label=VISITORS" alt="Profile Views"/>
 </div>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║           ANIMATED HEADER BANNER          ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
+
 
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Johith-Tex — Full-Stack Dev | Game Creator | Bot Builder"/>
@@ -19,9 +13,7 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║           CHARACTER STATS                  ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
+
 
 ## Character Stats
 
@@ -32,19 +24,6 @@
 
 <img src="assets/avatar_me.png" width="180" alt="Johith-Tex Avatar"/>
 
-```
-╔══════════════════════════════════╗
-║       PLAYER  PROFILE            ║
-╠══════════════════════════════════╣
-║                                  ║
-║  Name ··· Johith-Tex             ║
-║  Class ·· Full-Stack Developer   ║
-║  Race ··· Code Wizard            ║
-║  Guild ·· Open Source            ║
-║  Level ·· ∞                      ║
-║                                  ║
-╚══════════════════════════════════╝
-```
 
 Currently questing on **Gate to Oblivion** (UE5)
 
@@ -77,9 +56,6 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 <br/>
 <img src="assets/divider.svg" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║          INVENTORY — TECH STACK            ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
 
 ## Inventory — Tech Stack
 
@@ -116,9 +92,7 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 <br/>
 <img src="assets/divider.svg" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║       QUEST LOG — FEATURED PROJECTS        ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
+
 
 ## Quest Log — Featured Projects
 
@@ -202,22 +176,18 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 <br/>
 <img src="assets/divider.svg" width="100%"/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║              BATTLE STATS                  ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
+
 
 ## Battle Stats
 
 <div align="center">
 
-<!-- Streak Stats -->
 <a href="https://github.com/Johith-Tex">
   <img src="https://streak-stats.demolab.com?user=Johith-Tex&hide_border=true&background=0D1117&ring=00F5D4&fire=FFBE0B&currStreakLabel=00F5D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=161B22" width="49%"/>
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <a href="https://github.com/Johith-Tex">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johith-Tex&bg_color=0d1117&color=00f5d4&line=ffbe0b&point=ff006e&area=true&area_color=00f5d430&hide_border=true&custom_title=%E2%9A%A1%20Contribution%20Timeline" width="98%"/>
 </a>
@@ -226,12 +196,8 @@ Leveling up in **AI/ML** & **Advanced Game Dev**
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║              FOOTER                       ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
 
 <img src="assets/footer.svg" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  Built with love, code, and way too much coffee                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+
